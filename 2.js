@@ -1,0 +1,1 @@
+const getPerson = name => name; 
