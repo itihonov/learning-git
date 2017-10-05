@@ -1,1 +1,1 @@
-a+b =c;
+const gitFunc = () => a - b;
